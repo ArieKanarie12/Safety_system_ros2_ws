@@ -20,5 +20,5 @@ A node that creates a simple video publisher of raw camera data together with a 
 
 
 **Data log**
-https://drive.google.com/drive/folders/1rjw6OnxU7YNygykKYVRDMj-H_l6BYlvh?usp=drive_link
+https://drive.google.com/drive/folders/1qUWR8mkxQ0ql8UpjFtRacjIW-E_ZGkv3?usp=sharing
 This link contains a rosbag of the radar and thermal camera that can be visualized with the rviz template in on the main page.
