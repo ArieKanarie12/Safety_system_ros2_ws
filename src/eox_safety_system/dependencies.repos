@@ -1,0 +1,6 @@
+repositories:
+  off_highway_sensor_drivers:
+    type: git
+    url: https://github.com/bosch-engineering/off_highway_sensor_drivers.git
+    version: main  # Change to the appropriate branch/tag if necessary
+
