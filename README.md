@@ -12,8 +12,13 @@ It also adds markers displaying the distance, velocity and exist probability fro
 
 
 **Vehicle simulator**
-This node is used to provide the radar sensor with vehicle speed and yaw rate date over can-bus
+This node is used to provide the radar sensor with vehicle speed and yaw rate date over can-bus.
 
 
 **video publisher**
-A node that creates a simple video publisher of raw camera data together with a camera/info topic so that the camera image can be viewed in Rviz2
+A node that creates a simple video publisher of raw camera data together with a camera/info topic so that the camera image can be viewed in Rviz2.
+
+
+**Data log**
+https://drive.google.com/drive/folders/1rjw6OnxU7YNygykKYVRDMj-H_l6BYlvh?usp=drive_link
+This link contains a rosbag of the radar and thermal camera that can be visualized with the rviz template in on the main page.
