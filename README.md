@@ -24,4 +24,4 @@ https://drive.google.com/drive/folders/1qUWR8mkxQ0ql8UpjFtRacjIW-E_ZGkv3?usp=sha
 This link contains a rosbag of the radar and thermal camera that can be visualized with the rviz template in on the main page.
 
 
-Built on ROS2 Humble
+Built on ROS2 Humble.
