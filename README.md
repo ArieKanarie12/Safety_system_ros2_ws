@@ -2,7 +2,10 @@
 Collection of packages used to test various sensors for the development of a safety system for an amr tractor
 
 The ROS2 nodes are dependent on the Bosch off highway ROS2 packages found on github.
-Also the A YOLO ROS2 package from github is used to apply inference results to the video streaming node.
+https://github.com/bosch-engineering/off_highway_sensor_drivers.git
+
+Also a yolov8n ROS2 package from github is used to apply inference results to the video streaming node.
+https://drive.google.com/drive/folders/1FPhKoNdOjgIh4To6dgvO8z0UgDsVEfGV
 
 
 **Braking control node**
